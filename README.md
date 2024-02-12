@@ -13,7 +13,7 @@ It incorporates the use of LangChain ReAct (Reasoning Action) agents to faciliat
 
 ## Main Prerequisites
 
-1. Python 3.10
+1. At least Python 3.10
 2. Access to OpenAI's API credits for usage of gpt-3.5 
 3. Access to Proxycurl's paid API for crawling to get the thhe correct LinkedIn profile
 4. Access to SerpAPI's paid credits to facilitate the scraping of information from the LinkedIn profile page
