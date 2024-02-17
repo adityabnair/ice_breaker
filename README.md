@@ -21,7 +21,7 @@ It incorporates the use of LangChain ReAct (Reasoning Action) agents to faciliat
 
 ### Running
 
-1. Use pipenv to install python libraries from requirements.txt
+1. Use pipenv to install python libraries from requirements.txt (a virtual environemnt is always recommended)
 2. Add environment variables in a .env file to hold the keys
 3. Run app.py
 4. Search for name (name can be entered with a tag like an organization's name to differentitate between similar names)
