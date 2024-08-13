@@ -1,7 +1,7 @@
 # Ice Breaker
 
 Ice Breaker is a functioning fullstack application based on generative AI. It performs web crawling to get a person's linkedin profile and leverages the langchain library to generate interesting ice breakers based on the person's history. 
-It incorporates the use of LangChain ReAct (Reasoning Action) agents to faciliate the effective return of the linkedin profile URL as well as cleaning of tokens in the resultant information in JSON format. Finally, the output of the LLM is parsed using LangChain's output praser to get the four essential components from the JSON file which is summary, two interesting facts, topics of interest and two generated ice breakers. The frontend is designed using static HTML/CSS while the backend is created through Flask.
+It incorporates the use of LangChain ReAct (Reasoning Action) agents to faciliate the effective return of the linkedin profile URL as well as cleaning of tokens in the resultant information in JSON format. Finally, the output of the LLM is parsed using LangChain's output parser to get the four essential components from the JSON file which is summary, two interesting facts, topics of interest and two generated ice breakers. The frontend is designed using static HTML/CSS while the backend is created through Flask.
 
 ## Screenshots
 
